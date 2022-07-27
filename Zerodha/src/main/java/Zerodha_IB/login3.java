@@ -28,7 +28,7 @@ public void Holdings() {
 public void Positions() {
 	Positions.click();
 }
-public void Funds() {
+public void Money_Funds() {
 	Funds.click();
 }
 
